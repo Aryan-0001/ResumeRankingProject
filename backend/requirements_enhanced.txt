@@ -1,0 +1,49 @@
+"""
+Enhanced requirements with additional dependencies for improved functionality
+"""
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+python-multipart==0.0.12
+pydantic-settings==2.7.0
+email-validator==2.2.0
+
+SQLAlchemy==2.0.36
+
+passlib[bcrypt]==1.7.4
+bcrypt==4.1.2
+python-jose[cryptography]==3.3.0
+
+numpy==2.1.3
+pandas==2.2.3
+scikit-learn==1.5.2
+joblib==1.4.2
+
+spacy==3.8.2
+pdfplumber==0.11.4
+python-docx==1.1.2
+
+sentence-transformers==3.2.1
+
+httpx==0.25.2
+
+# Additional dependencies for enhanced features
+pytest==7.4.3
+pytest-asyncio==0.21.1
+pytest-cov==4.1.0
+httpx==0.25.2  # For testing FastAPI endpoints
+
+# Performance and monitoring
+redis==5.0.1  # For advanced caching (optional)
+psutil==5.9.6  # For system monitoring
+
+# Security enhancements
+cryptography==41.0.8
+python-multipart==0.0.12
+
+# Logging and monitoring
+structlog==23.2.0
+
+# Development tools
+black==23.11.0
+flake8==6.1.0
+mypy==1.7.1

@@ -1,0 +1,40 @@
+# Environment / secrets
+.env
+backend/.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Node
+node_modules/
+
+# Uploads / user files
+uploads/
+*.pdf
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Internal notes / debug docs
+BACKEND_CRITICAL_FIX.md
+BCRYPT_WARNING_FIX.md
+DASHBOARD_COMPLETE_FIX.md
+DASHBOARD_PERFORMANCE_FIX.md
+ENHANCEMENT_SUMMARY.md
+FINAL_SYSTEM_STATUS.md
+PROJECT_STATUS.md
+abcd.txt
+backend/logs/
