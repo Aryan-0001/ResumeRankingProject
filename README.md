@@ -110,3 +110,13 @@ Windows launch scripts are also included in the repository.
 
 - Local database files, uploaded resumes, environment files, logs and other generated files are excluded from the repository.
 - The ranking and fit scores are intended as decision-support signals rather than a replacement for human review.
+
+---
+---
+
+## Images
+<img width="1917" height="918" alt="image" src="https://github.com/user-attachments/assets/7499c6b8-314f-4249-89b1-2c685e4fd0cf" />
+<img width="1917" height="912" alt="image" src="https://github.com/user-attachments/assets/c08b13c1-db5a-4ac9-8157-412369371eda" />
+<img width="1917" height="930" alt="image" src="https://github.com/user-attachments/assets/5aeb6cb5-fd3c-499a-b5fb-c44cec283a5b" />
+<img width="1917" height="925" alt="image" src="https://github.com/user-attachments/assets/743c60dd-b04a-44d1-bd7a-bed1c3480783" />
+
